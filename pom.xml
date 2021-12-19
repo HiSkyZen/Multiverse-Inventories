@@ -309,12 +309,12 @@ and adjust the build number accordingly -->
 
     <distributionManagement>
         <repository>
-            <id>OnARandomBox</id>
-            <url>https://repo.onarandombox.com/content/repositories/multiverse</url>
+            <id>mchan.us-Maven</id>
+            <url>file:///maven/</url>
         </repository>
         <snapshotRepository>
-            <id>OnARandomBox</id>
-            <url>https://repo.onarandombox.com/content/repositories/multiverse-snapshots/</url>
+            <id>mchan.us-Maven</id>
+            <url>file:///maven/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
