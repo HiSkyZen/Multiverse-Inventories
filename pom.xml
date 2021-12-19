@@ -309,11 +309,11 @@ and adjust the build number accordingly -->
 
     <distributionManagement>
         <repository>
-            <id>mchan.us-Maven</id>
+            <id>mchan.us</id>
             <url>file:///maven/</url>
         </repository>
         <snapshotRepository>
-            <id>mchan.us-Maven</id>
+            <id>mchan.us</id>
             <url>file:///maven/</url>
         </snapshotRepository>
     </distributionManagement>
